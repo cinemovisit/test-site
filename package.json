@@ -9,7 +9,7 @@
   "author": "Cinemo GmbH",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "q": "^1.5.1"
   },
   "config": {
